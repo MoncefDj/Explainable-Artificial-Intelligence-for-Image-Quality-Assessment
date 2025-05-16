@@ -1,1 +1,1 @@
-# Explainable-Artificial-Intelligence-for-Image-Quality-Assessment
+# Explainable Artificial Intelligence for Image Quality Assessment
