@@ -5,7 +5,7 @@
 [![PyTorch Version](https://img.shields.io/badge/pytorch-1.10%2B-orange.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
 
-![Application Visual Overview](images/visual.png)
+![Application Visual Overview](Images/visual.png)
 
 This project provides a web-based application for assessing the quality of medical images, specifically Chest X-rays (CXRs), using a Deep Learning-based segmentation model and saliency mapping. It further leverages a Large Language Model (LLM) to provide human-readable explanations of the analysis.
 
