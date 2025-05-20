@@ -1,0 +1,11 @@
+Flask
+torch
+torchvision
+opencv-python-headless
+pandas
+albumentations
+segmentation-models-pytorch
+matplotlib
+Pillow
+gpt4all
+numpy
