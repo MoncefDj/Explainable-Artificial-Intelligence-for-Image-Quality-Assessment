@@ -4,24 +4,10 @@
 
 This project provides a comprehensive framework for explainable artificial intelligence (XAI) applied to image quality assessment (IQA), with a focus on medical imaging (Chest X-rays). It combines deep learning-based segmentation, saliency mapping, and large language model (LLM) explanations to deliver both quantitative and interpretable assessments of image quality.
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="border: 1px solid gray; text-align: center;"><strong>Original Image</strong></td>
-    <td style="border: 1px solid gray; text-align: center;"><strong>Segmentation Mask</strong></td>
-    <td style="border: 1px solid gray; text-align: center;"><strong>Saliency Overlay</strong></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid gray; text-align: center;">
-      <img src="images/original_img.png" alt="Alt1" width="250" height="250"/>
-    </td>
-    <td style="border: 1px solid gray; text-align: center;">
-      <img src="images/segmentation_mask.png" alt="Alt2" width="250" height="250"/>
-    </td>
-    <td style="border: 1px solid gray; text-align: center;">
-      <img src="images/Saliency_overlay.png" alt="Alt3" width="250" height="250"/>
-    </td>
-  </tr>
-</table>
+| **Original Image** | **Segmentation Mask** | **Saliency Overlay** |
+|:------------------:|:---------------------:|:---------------------:|
+| ![](images/original_img.png) | ![](images/segmentation_mask.png) | ![](images/Saliency_overlay.png) |
+
 
 
 ## DeepLabV3+ Model Results: Quantitative & Qualitative (with Baseline Comparison)
