@@ -143,7 +143,9 @@ Explainable-Artificial-Intelligence-for-Image-Quality-Assessment/
 ├── DeepLabV3Plus/
 │   ├── Train/        # Training pipeline
 │   ├── Test/         # Testing/inference pipeline
-│   └── VisEng/       # Visualization & explainability
+│   ├── VisEng/       # Visualization & explainability
+│   └── Evaluation/   # XAI evaluation framework and metrics
+│       └── xai_evaluation_framework.py # Script for faithfulness and localization metrics
 ├── Model WebApp Interface/
 │   └── website.2.0.0/  # Flask web application
 ├── re-implemetations/  # Additional model implementations
