@@ -6,7 +6,7 @@ This project provides a comprehensive framework for explainable artificial intel
 
 | **Original Image** | **Segmentation Mask** | **Saliency Overlay** |
 |:------------------:|:---------------------:|:---------------------:|
-| ![](images/original_img_256.png.png) | ![](images/segmentation_mask_256.png.png) | ![](images/saliency_overlay_256.png.png) |
+| ![](images/original_img_256.png) | ![](images/segmentation_mask_256.png) | ![](images/saliency_overlay_256.png) |
 
 
 
