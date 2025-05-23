@@ -6,7 +6,7 @@ This project provides a comprehensive framework for explainable artificial intel
 
 | **Original Image** | **Segmentation Mask** | **Saliency Overlay** |
 |:------------------:|:---------------------:|:---------------------:|
-| <img src="images/original_img.png" width="200" height="200"/> | <img src="images/segmentation_mask.png" width="200" height="200"/> | <img src="images/Saliency_overlay.png" width="200" height="200"/> |
+| ![](images/original_img.png) | ![](images/segmentation_mask.png) | ![](images/Saliency_overlay.png) |
 
 
 
@@ -143,7 +143,9 @@ Explainable-Artificial-Intelligence-for-Image-Quality-Assessment/
 ├── DeepLabV3Plus/
 │   ├── Train/        # Training pipeline
 │   ├── Test/         # Testing/inference pipeline
-│   └── VisEng/       # Visualization & explainability
+│   ├── VisEng/       # Visualization & explainability
+│   └── Evaluation/   # XAI evaluation framework and metrics
+│       └── xai_evaluation_framework.py # Script for faithfulness and localization metrics
 ├── Model WebApp Interface/
 │   └── website.2.0.0/  # Flask web application
 ├── re-implemetations/  # Additional model implementations
